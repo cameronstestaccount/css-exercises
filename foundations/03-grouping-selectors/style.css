@@ -1,0 +1,14 @@
+.bw-button, 
+.by-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.bw-button {
+    background-color: black;
+    color: white;
+}
+
+.by-button {
+    background-color: yellow;
+}
